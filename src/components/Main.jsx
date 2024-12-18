@@ -20,7 +20,7 @@ function Main(){
                     !showResult ?
                     <>
                         <div className="greet mx-0 mt-3 mb-[30px] text-[56px] text-[#c4c7c5] p-5 leading-tight">
-                            <p><span className=" bg-gradient-to-r from-[#4b90ff] to-[#ff5546] text-transparent bg-clip-text font-medium">Hello, Nihal.</span></p>
+                            <p><span className=" bg-gradient-to-r from-[#4b90ff] to-[#ff5546] text-transparent bg-clip-text font-medium">Hello, @Iky Assistant user.</span></p>
                             <p>How can I help you today?</p>
                         </div>
 
