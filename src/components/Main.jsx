@@ -10,7 +10,7 @@ function Main(){
         <div className="main flex-1 min-h-screen pb-[15vh] relative">
 
             <div className="nav flex items-center justify-between text-[22px] p-5 text-[#585858]">
-                <p>Gemini</p>
+                <p>Iky Assistat</p>
                 <img className="w-12 rounded-[50px]" src={assets.user_icon} alt="" />
             </div>
 
